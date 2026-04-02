@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Dataset",
+			"path": "../Dataset"
+		},
+		{
+			"name": "MidtermProejct",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
